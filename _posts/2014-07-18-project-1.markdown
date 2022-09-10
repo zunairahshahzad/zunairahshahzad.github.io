@@ -6,7 +6,7 @@ img: cabin.png
 alt: image-alt
 title: Federal Income Tax Calculation
 project-date: Feburary 2022
-category: (https://replit.com/@ZunairahShahzad/fedTaxpy#main.py)
+category: https://replit.com/@ZunairahShahzad/fedTaxpy#main.py
 description: Using conditional statements (Python) on Replit, this program was created to read in a taxable income and compute the federal tax payable to the nearest cent (according to tax rates for 2022). The program prompts users to enter their income for 2022. Since Federal income tax is to be levied in stages on taxable income, with coding, I created mathematical equations to calculate how much income is taxed on each stage. As of 2022, on the first $50,197 15% is taxed and on the next $50,195 (on the portion of taxable income from $50197 to up to $100,392) 20.5% is taxed. Additionally, on the next $55,233 (on the portion of taxable income over $100,392 up to $155,625) 26% is taxed and on the next $66,083 (on the portion of taxable income over $155,625 up to $221,708) 29% is taxed. Finally, on the rest (amount over $221,708) 33% is taxed. After determining the tax on each portion of income, the computer outputs the total federal tax to be paid as of 2022 tax rates. 
 
 ---
