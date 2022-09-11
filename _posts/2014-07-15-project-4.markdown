@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: multiplicationGame.png
 alt: image-alt
 title: Multiplication Game 
 project-date: March 10, 2022
