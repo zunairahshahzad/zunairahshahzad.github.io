@@ -7,11 +7,5 @@ alt: image-alt
 title: Solving Linear Systems (2 Ways)
 project-date: April 5, 2022
 category: https://replit.com/@ZunairahShahzad/solLinSysSubpy#main.py & https://replit.com/@ZunairahShahzad/solLinSysElipy#main.py
-description: Using Conditionals and Loops (Python) on Replit, I wrote two different programs to solve a linear system. One program solves by using substitution and the other solves by elimination. 
-
-Solving Linear Systems by substitution uses a pair of equations in the form of y = Ax + B and y = Cx + D. The program displays a welcome message and prompts the user to enter values of A, B, C and D which can be any four numbers. Using the algorithm and the substitution method, the program outputs whether the system of linear equations has a single solution (and if so, which one), no solutions (parallel lines), or infinite solutions (same line).
-
-
-Solving by elimination uses a pair of equations in the form of Ax + By = C and Dx + Ey = F. The program displays a welcome message and prompts the user to enter the values of A, B, C, D, E, and F which can be any six numbers. Using an algorithm and the elimination method, the program outputs whether the system of linear equations has a single solution, no solution (parallel lines) or infinite solution (same line).
-
+description: Using Conditionals and Loops (Python) on Replit, I wrote two different programs to solve a linear system. One program solves by using substitution and the other solves by elimination. First program, Solving Linear Systems by Substitution, uses a pair of equations in the form of y = Ax + B and y = Cx + D. The program displays a welcome message and prompts the user to enter values of A, B, C and D which can be any four numbers. Using the algorithm and the substitution method, the program outputs whether the system of linear equations has a single solution (and if so, which one), no solutions (parallel lines), or infinite solutions (same line). Second program, Solving by Elimination, uses a pair of equations in the form of Ax + By = C and Dx + Ey = F. The program displays a welcome message and prompts the user to enter the values of A, B, C, D, E, and F which can be any six numbers. Using an algorithm and the elimination method, the program outputs whether the system of linear equations has a single solution, no solution (parallel lines) or infinite solution (same line).
 ---
