@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: volumeArea.png
 alt: image-alt
 title: Calculating Area of Circle & Volume of Sphere
 project-date: March 11, 2022
