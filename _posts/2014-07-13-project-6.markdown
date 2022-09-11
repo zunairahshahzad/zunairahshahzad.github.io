@@ -6,8 +6,7 @@ img: submarine.png
 alt: image-alt
 title: Solving Linear Systems (2 Ways)
 project-date: April 5, 2022
-category: https://replit.com/@ZunairahShahzad/solLinSysSubpy#main.py
-category: https://replit.com/@ZunairahShahzad/solLinSysElipy#main.py
+category: https://replit.com/@ZunairahShahzad/solLinSysSubpy#main.py & https://replit.com/@ZunairahShahzad/solLinSysElipy#main.py
 description: Using Conditionals and Loops (Python) on Replit, I wrote two different programs to solve a linear system. One program solves by using substitution and the other solves by elimination. 
 
 Solving Linear Systems by substitution uses a pair of equations in the form of y = Ax + B and y = Cx + D. The program displays a welcome message and prompts the user to enter values of A, B, C and D which can be any four numbers. Using the algorithm and the substitution method, the program outputs whether the system of linear equations has a single solution (and if so, which one), no solutions (parallel lines), or infinite solutions (same line).
