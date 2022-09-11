@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: fedTaxCalculation.png
 alt: image-alt
 title: Federal Income Tax Calculation
 project-date: Feburary 27, 2022
