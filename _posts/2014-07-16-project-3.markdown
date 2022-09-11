@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: specifiedCircles.png
 alt: image-alt
 title: Printing User-Specified Number of Circles On Screen
 project-date: April 4, 2022
