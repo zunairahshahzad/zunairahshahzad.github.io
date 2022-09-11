@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: pythonAnimation.png
 alt: image-alt
 title: Python Animation (a short story)
 project-date: June 15, 2022
