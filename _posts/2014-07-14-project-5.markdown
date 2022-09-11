@@ -7,7 +7,7 @@ alt: image-alt
 title: Calculating Area of Circle & Volume of Sphere
 project-date: March 11, 2022
 category: https://replit.com/@ZunairahShahzad/areaVolumepy#main.py
-description: Using function definition (Python) on Replit, this program was created to calculate and print out the volume of a sphere and the area of a circle. The main prompts the user for the radius which is passed as a perimeter. In function definition, the keyword in the header is def which is followed by the name of the function (volume or area) and the body contains equations on how to solve for each. Once a function is defined, it is called and the program outputs the area and volume depending on the radius specified by the user. 
+description: Using function definition (Python) on Replit, this program was created to calculate and print out the volume of a sphere and the area of a circle. The main prompts the user for the radius which is passed as a perimeter. In function definition, the keyword in the header is def which is followed by the name of the function (volume or area) and the body contains equations on how to solve for each. Once a function is defined, it is called and the program outputs the area and volume depending on the radius specified by the user.
 
 ---
 
