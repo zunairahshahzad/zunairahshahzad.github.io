@@ -8,6 +8,5 @@ title: Printing User-Specified Number of Circles On Screen
 project-date: April 4, 2022
 category: https://replit.com/@ZunairahShahzad/circlespy#main.py
 descripion: Using For-Loops (Python), on Replit, this program was created to print out a user-specified number of circles on the screen in random locations. Any number can be entered and no circles will go outside the edge of the canvas. First, tkinter and random were imported which will make draw circles. Then, the size of the screen (width and height) are entered to ensure no circle leaves the edge of the screen. Next, the program prompts users to enter the amount of circles they want to see on the screen and using for-loops, random and tkinter (draws shapes on screen), circles are generated. 
-
 ---
 
