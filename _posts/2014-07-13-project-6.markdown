@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: linearSystems.png
 alt: image-alt
 title: Solving Linear Systems (2 Ways)
 project-date: April 5, 2022
