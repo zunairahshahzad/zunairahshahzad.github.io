@@ -43,16 +43,13 @@ social:
     url: https://www.instagram.com/zunairah05/
   - title: stack-overflow
     url: http://replit.com/@ZunairahShahzad
-  - title: linkedin
-    url: zunairahshahzad05@gmail.com 
+  - title: bitbucket
+    url: https://zunairahshahzad05@gmail.com 
   
 # Postal address (add as many lines as necessary)
 address:
   - line: Preston High School
   - line: 550 Rose St, Cambridge 
-
-credits:
-  - line: Image credits rightfully belong to VectorStock 
 
 
 # Credits content
