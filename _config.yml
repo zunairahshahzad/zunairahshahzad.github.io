@@ -39,24 +39,20 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+  - title: instagram
+    url: https://www.instagram.com/zunairah05/
+  - title: replit
+    url: http://replit.com/@ZunairahShahzad
+  - title: mail
+    url: zunairahshahzad05@gmail.com 
+  
 # Postal address (add as many lines as necessary)
 address:
   - line: Preston High School
   - line: 550 Rose St, Cambridge 
 
 # Credits content
-credits: 'Through Github I was able to experiment and learn the basic methods of coding a website through their fork option. My passion for learning, curiosity and overall personal enjoyment of all learning new frameworks encouraged me to apply the concepts I learned through forking respiratories to create this website.'
+credits: 'Through Github I was able to experiment and learn the basic methods of coding a website through their fork option. My passion for learning, curiosity and overall personal enjoyment for learning new frameworks encouraged me to apply the concepts I learned through forking respiratories to create this website.'
 
 # Build settings
 markdown: kramdown
