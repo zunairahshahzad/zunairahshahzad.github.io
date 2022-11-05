@@ -3,10 +3,8 @@ title: Zunairah Shahzad
 email: zunairahshahzad05@gmail.com
 url: zunairahshahzad.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills:
-  - line: "Inovative - Curious - User Experience Designer"
-  - line: "more to write"
+keywords: "Zunairah, Website"
+skills: "Passionate - Hardworking - Innovative - Curious - Meticulous"
 meta_author: Shahzad Zunairah
 
 # Google webmaster tools
@@ -54,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Preston High School
+  - line: 550 Rose St, Cambridge 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Through Github I was able to experiment and learn the basic methods of coding a website through their fork option. My passion for learning, curiosity and overall personal enjoyment of all learning new frameworks encouraged me to apply the concepts I learned through forking respiratories to create this website.'
 
 # Build settings
 markdown: kramdown
