@@ -41,15 +41,19 @@ footer:
 social:
   - title: instagram
     url: https://www.instagram.com/zunairah05/
-  - title: replit
+  - title: stack-overflow
     url: http://replit.com/@ZunairahShahzad
-  - title: mail
+  - title: linkedin
     url: zunairahshahzad05@gmail.com 
   
 # Postal address (add as many lines as necessary)
 address:
   - line: Preston High School
   - line: 550 Rose St, Cambridge 
+
+credits:
+  - line: Image credits rightfully belong to VectorStock 
+
 
 # Credits content
 credits: 'Through Github I was able to experiment and learn the basic methods of coding a website through their fork option. My passion for learning, curiosity and overall personal enjoyment for learning new frameworks encouraged me to apply the concepts I learned through forking respiratories to create this website.'
