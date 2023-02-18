@@ -7,6 +7,6 @@ alt: image-alt
 title: Multiplication Game 
 project-date: March 10, 2022
 category: https://replit.com/@ZunairahShahzad/multiplicationGamepy#main.py
-description: Using function definition (Python) on Replit, this program was created to calculate and print out the volume of a sphere and the area of a circle. The main prompts the user for the radius which is passed as a perimeter. In function definition, the keyword in the header is def, followed by the name of the function (volume or area) and the body contains equations on how to solve for each. Once a function is defined, it is called and the program outputs the area and volume depending on the radius specified by the user. 
+description: Using While Loops (Python) on Replit, this game was created for any youngster who is wanting to learn multiplication. The game displays a welcome message and asks user to enter their name. It then generates two numbers and prompts user to enter the product. According to the user's input, if the product number entered is true, a "correct" message is displayed, and the user receives one point for each correct response. If the user's input is wrong, the correct solution is shown. The game continues until the user enters “-1” and once entered, the game is over and the player's score is shown.  
 
 ---
